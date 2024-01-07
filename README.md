@@ -1,0 +1,1 @@
+In this repository, I'm constructing a machine learning model to classiy whether a person is diagnosed as diabetes or not. In this project, 3 models used XGBoost, SVM, and Random Forest to classsify the dataset
